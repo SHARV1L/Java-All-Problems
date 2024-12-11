@@ -13,4 +13,4 @@ If your just using a code or copying-pasting, go the the terminal:
 
 For Compilation type: javac <File_name>.java
 
-For Running type: java File_name
+For Running type: java <File_name>

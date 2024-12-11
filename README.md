@@ -7,7 +7,7 @@ Since we have created com.assignment as the package so we can follow the below s
 
 For Compilation type: javac com.assignment.task<task_number>.<File_name>.java
 
-For Running the Code simply type: java <File_name>
+For Running the Code simply type: java com.assignment.task<task_number>.<File_name>
 
 If your just using a code or copying-pasting, go the the terminal:
 

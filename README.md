@@ -1,4 +1,5 @@
 # Java-All-Problems
+Please refer to the Assignment PDF File which covers different list of programs covering various JAVA concepts that I've written here.
 
 To run the code simple clone the repo in your system and use the terminal: 
 
